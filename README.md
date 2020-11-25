@@ -1,6 +1,8 @@
 # DU-Industry-Monitor
 Dual Universe script to monitor industry machines
 
+<img src="https://github.com/FoolsFolly/DU-Industry-Monitor/blob/main/image.png" />
+
 A simple script to display on a screen the Running/Stopped status and remaining crafting time for the current cycle of multiple industry machines. Optionally can also display an output box and the number of items inside.
 
 Requires 1 Screen/Transparent Screen, and 1 Programming Board
